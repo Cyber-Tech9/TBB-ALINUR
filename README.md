@@ -5,7 +5,7 @@ Team Black Berry er pokko theke apnader jonno new update command gift
 * rm -rf TBB-ALINUR
 * git clone https://github.com/Cyber-Tech9/TBB-ALINUR.git
 * cd TBB-ALINUR
-* python TBB-Update
+* python TBB-Update.py
 
 # Subscriber my YouTube channel 
 
